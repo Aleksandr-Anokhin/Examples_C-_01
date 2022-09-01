@@ -1,0 +1,15 @@
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.csproj.AssemblyReference.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.AssemblyInfoInputs.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.AssemblyInfo.cs
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.csproj.CoreCompileInputs.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.exe
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.deps.json
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.runtimeconfig.json
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\bin\Debug\net6.0\Example_007_Magic.pdb
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\refint\Example_007_Magic.dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.pdb
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\Example_007_Magic.genruntimeconfig.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_007_Magic\obj\Debug\net6.0\ref\Example_007_Magic.dll
