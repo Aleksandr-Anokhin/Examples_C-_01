@@ -1,0 +1,15 @@
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\bin\Debug\net6.0\Example_005_if( ).exe
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\bin\Debug\net6.0\Example_005_if( ).deps.json
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\bin\Debug\net6.0\Example_005_if( ).runtimeconfig.json
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\bin\Debug\net6.0\Example_005_if( ).dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\bin\Debug\net6.0\Example_005_if( ).pdb
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\Example_005_if( ).csproj.AssemblyReference.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\Example_005_if( ).GeneratedMSBuildEditorConfig.editorconfig
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\Example_005_if( ).AssemblyInfoInputs.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\Example_005_if( ).AssemblyInfo.cs
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\Example_005_if( ).csproj.CoreCompileInputs.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\Example_005_if( ).dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\refint\Example_005_if( ).dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\Example_005_if( ).pdb
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\Example_005_if( ).genruntimeconfig.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_005_if( )\obj\Debug\net6.0\ref\Example_005_if( ).dll
