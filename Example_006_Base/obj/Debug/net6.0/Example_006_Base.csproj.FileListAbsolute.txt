@@ -1,0 +1,15 @@
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\bin\Debug\net6.0\Example_006_Base.exe
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\bin\Debug\net6.0\Example_006_Base.deps.json
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\bin\Debug\net6.0\Example_006_Base.runtimeconfig.json
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\bin\Debug\net6.0\Example_006_Base.dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\bin\Debug\net6.0\Example_006_Base.pdb
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\Example_006_Base.csproj.AssemblyReference.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\Example_006_Base.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\Example_006_Base.AssemblyInfoInputs.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\Example_006_Base.AssemblyInfo.cs
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\Example_006_Base.csproj.CoreCompileInputs.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\Example_006_Base.dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\refint\Example_006_Base.dll
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\Example_006_Base.pdb
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\Example_006_Base.genruntimeconfig.cache
+G:\Prog\С#\Лекции\Examples_C#_01\Example_006_Base\obj\Debug\net6.0\ref\Example_006_Base.dll
